@@ -1,0 +1,24 @@
+.header {
+	color: red;
+	font-size: 20px;
+	text-align: center;
+	background-color: black;
+	padding: 10px
+}
+
+canvas {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.forest {
+	margin-bottom: 0px;
+	background-color: #754719;
+}
+
+.bottom {
+	padding: 10px;
+	text-align: center;
+	background-color: #005200;
+}
